@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Success Story: Windmill Filters</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+    }
+    .header {
+      text-align: center;
+      padding: 50px;
+    }
+    .content {
+      padding: 20px;
+    }
+    .key-points {
+      background-color: #f2f2f2;
+      padding: 20px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Unlocking Business Potential with SMS Automation</h1>
+      <p>How Windmill Filters Leveraged SMS to Build Their Business from Scratch</p>
+    </div>
+    <div class="content">
+      <h2>Introduction</h2>
+      <p>Windmill Filters wasn't just improved by SMS automation; it was born from it. This case study explores how a startup used SMS as the cornerstone of their business model.</p>
+      <h2>Key Points to Pivot</h2>
+      <div class="key-points">
+        <ul>
+          <li><strong>Innovation:</strong> SMS automation isn't just an add-on; it's a game-changer.</li>
+          <li><strong>Versatility:</strong> Designed for one, adaptable for all.</li>
+          <li><strong>Customer Experience:</strong> Real-time updates, real-world applications.</li>
+          <li><strong>Ease of Adaptation:</strong> Seamless integration, effortless operation.</li>
+          <li><strong>Shipping Updates:</strong> Where you are, when you want.</li>
+        </ul>
+      </div>
+      <!-- Placeholder for Reviews -->
+      <h2>What Our Clients Say</h2>
+      <p>[Client Testimonials Here]</p>
+    </div>
+  </div>
+</body>
+</html>
